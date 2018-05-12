@@ -1,0 +1,31 @@
+_repo: Kamala-y-sija_35111
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Collins, Wilkie
+    alias: Collins, William Wilkie
+    birthdate: 1824
+    deathdate: 1889
+    gutenberg_agent_id: '98'
+    url: http://www.gutenberg.org/2009/agents/98
+    wikipedia: http://en.wikipedia.org/wiki/Wilkie_Collins
+description: '"Kamala yösija" is a translation of "A Terribly Strange Bed", a short
+  story by Wilkie Collins which first appeared in the magazine "Household Words,"
+  edited by Charles Dickens.'
+gutenberg_issued: '2011-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35111'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: Kamala yösija
+url: http://www.gutenberg.org/ebooks/35111
